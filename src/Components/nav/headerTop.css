@@ -1,0 +1,15 @@
+/* HEADER TOP */
+
+.headertop {
+  background-color: rgba(19, 228, 89, 0.712);
+  color: rgba(253, 253, 253, 0.938);
+  overflow: hidden;
+}
+li {
+  list-style: none;
+}
+
+.leftList {
+  padding-right: 15px;
+  border-right: 2px solid black;
+}
