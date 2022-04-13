@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.card .text {
+  padding: 1rem;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.card .heading {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.card .paragraph {
+  font-size: 0.9rem;
+}
+
+.card .cta {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card .img {
+  width: 100%;
+  padding: 0;
+  border-radius: 15px 15px 0 0;
+}

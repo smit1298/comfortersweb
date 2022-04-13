@@ -1,0 +1,17 @@
+.donate {
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+  border: 2px solid #fff;
+  padding: 0.5rem 1rem ;
+  background-color: #146c43;
+  color: #fff;
+  transition: 0.4s;
+  display: flex;
+  align-self: flex-start;
+}
+
+.donate:hover {
+  background-color: #fff;
+  color: #146c43;
+  border-color: #146c43;
+}
