@@ -24,9 +24,9 @@ function App() {
           {/* <Route exact path="/donate" element={<Donate />} /> */}
           <Route component={<h4>Page not found</h4>} />
 
-        </Routes>
       </div>
 
+    </Router>
   );
 }
 
