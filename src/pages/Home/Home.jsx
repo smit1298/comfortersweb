@@ -1,5 +1,5 @@
-import Carousel from "../Carousel";
-import Card from "../Card";
+import Carousel from "../../components/Carousel/Carousel";
+import Card from "../../components/Card/Card";
 
 import firstCardImage from "../../images/spell.jpg";
 import secondCardImage from "../../images/group.jpg";
@@ -13,7 +13,7 @@ const Home = () => (
 
     <h1>Donate to our cause</h1>
     <div className="card-container">
-      <Card className="ca"
+      <Card
         source={firstCardImage}
         description="a man handing something to 2 children"
         heading="Sponsor a Child"

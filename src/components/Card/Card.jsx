@@ -1,4 +1,4 @@
-import DonateButton from "./DonateButton";
+import DonateButton from "../DonateButton/DonateButton";
 
 import "./Card.css";
 

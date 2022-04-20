@@ -1,6 +1,6 @@
 import React from "react";
 import AboutTop from "./top";
-import Footer from "../../footer/footer";
+import Footer from "../footer/footer";
 
 export default function about() {
   return (

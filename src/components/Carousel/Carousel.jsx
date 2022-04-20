@@ -1,5 +1,5 @@
-import firstImage from "../images/two-kids.png";
-import secondImage from "../images/more-kids.png";
+import firstImage from "../../images/two-kids.png";
+import secondImage from "../../images/more-kids.png";
 
 const Carousel = () => (
   <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">

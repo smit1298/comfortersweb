@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
 
-import DonateButton from "./DonateButton";
-import logo from "../images/logo.jpg"
+import DonateButton from "../DonateButton/DonateButton";
+
+import logo from "../../images/logo.jpg"
 import "./NavigationBar.css";
 
 const NavigationBar = () => (

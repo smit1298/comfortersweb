@@ -1,5 +1,4 @@
-import NavigationBar from "./NavigationBar";
-
+import NavigationBar from "../NavigationBar/NavigationBar";
 import "./Header.css";
 
 const Header = () => (

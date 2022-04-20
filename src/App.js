@@ -1,10 +1,11 @@
 // import Gallery from "./Components/home/gallery";
 // import Donate from "./Components/home/donate";
-import Header from "./components/Header";
-import Home from "./components/pages/Home";
-import About from "./components/pages/About";
-import Contact from "./components/pages/Contact";
-import Footer from "./components/Footer";
+import Header from "./components/Header/Header";
+import Home from "./pages/Home/Home";
+
+import About from "./pages/About/About";
+import Contact from "./pages/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 
 import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 
