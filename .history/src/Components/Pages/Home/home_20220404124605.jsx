@@ -1,5 +1,5 @@
 import React from "react";
-// import President from "./president";
+import President from "./president";
 import Carousel from "./carousel";
 import Cardlist from "./cardList";
 import AboutTop from "../About/top";

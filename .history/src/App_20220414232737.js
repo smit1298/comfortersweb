@@ -6,12 +6,13 @@ import About from "./Components/Pages/About/about";
 // import Gallery from "./Components/home/gallery";
 import Contact from "./Components/Pages/Contact/contact";
 // import Donate from "./Components/home/donate";
-import {Route, Routes} from "react-router-dom";
+import { Route, Routes} from "react-router-dom";
 import "./App.css";
 
 function App() {
   return (
     
+
       <div className="App">
         <HeaderTop /> 
         <HeaderBottom />

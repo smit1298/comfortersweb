@@ -1,6 +1,6 @@
 import React from "react";
 // import President from "./president";
-import Carousel from "./carousel";
+import Carousel from "./carousel.jsx";
 import Cardlist from "./cardList";
 import AboutTop from "../About/top";
 import Footer from "../../footer/footer";
