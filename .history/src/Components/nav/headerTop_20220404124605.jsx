@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { Icon } from '@iconify/react';
 import './headerTop.css';
 import Socials from '../socials/socials'
+// import { Container, Row, Col } from 'react-bootstrap';
 
 const Top = () => {
   return (

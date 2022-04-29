@@ -1,5 +1,6 @@
 import React from "react";
 import { Button } from "react-bootstrap";
+// import 'bootstrap/dist/css/bootstrap.css';
 import "./donateButton.css";
 
 export default function Donate() {

@@ -62,7 +62,6 @@ export default function footer() {
 
             <Col lg={3} md={10} className="head w-25 mt-4">
               <h2>Contact</h2>
-              
             </Col>
           </Row>
         </Container>
