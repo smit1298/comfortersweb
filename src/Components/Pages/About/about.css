@@ -1,0 +1,49 @@
+
+body {
+    font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  font-family: 'Stint Ultra Condensed', cursive, sans-serif;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 575px) {
+    .support-company-area .support-location-img img {
+    height: 250px !important;
+  }
+  .section-padding {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .section-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+
+.support-company-area {
+  background: #f2fdf5;
+}
+
+.section-padding {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.support-company-area .support-location-img img {
+  width: 100%;
+}
+
+img,
+svg {
+  vertical-align: middle;
+}

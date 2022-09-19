@@ -1,0 +1,50 @@
+.site-footer {
+  background-color: rgba(14, 119, 49, 0.712);
+  padding: 3rem 0 0 0;
+}
+
+.comhomes {
+  font-size: 30px;
+}
+
+.footlink {
+  color: white;
+}
+
+.head {
+  color: white;
+}
+
+.head span {
+}
+
+.content-text {
+  color: rgb(247, 246, 246);
+}
+
+.footer-container {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 800px) {
+  .footer-container {
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .footer-container {
+    flex-direction: column;
+  }
+}
+
+.foot {
+  /* margin-top: 1rem; */
+  max-width: 80%;
+  margin: 1rem auto 0 auto;
+  border-top: 0.2px solid #fff;
+
+  padding: 15px 0 10px 0;
+}
